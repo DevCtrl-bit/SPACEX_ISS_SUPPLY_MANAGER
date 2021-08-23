@@ -1050,13 +1050,13 @@ def threeSecDelayToMainMenu():
     
     gestionaMenu(menu.imprimeMenu())
     
-#COMIENZA EL PROGRAMA PRINCIPAL
+#COMIENZA MAIN
 
 mensajeBienvenida = "BIENVENIDO A ISS_SUPPLY"
 
 print('\n', mensajeBienvenida)
 print(chr(773)*len(mensajeBienvenida))
-#las siguientes dos lineas son necesarias cada vez que vayamos a usar el menu
+
 gestionaMenu(menu.imprimeMenu())
 
 
