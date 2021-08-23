@@ -27,7 +27,6 @@ peticionAsignada = []
 peticionCompletada = []
 cohetesEnRuta = []
 
-
 def gestionaMenu(opcion):
     
     if opcion == 1:
